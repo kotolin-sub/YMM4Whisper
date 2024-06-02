@@ -15,4 +15,4 @@ YMM4で音声を囁き声にする音声プラグイン
 音声が途切れる(条件不明)
 
 ## license
-ksasao様のtoWhisper( https://github.com/ksasao/toWhisper )をお借りしました
+ksasao様の[toWhisper](https://github.com/ksasao/toWhisper)をお借りしました
